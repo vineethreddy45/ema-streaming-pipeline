@@ -1,0 +1,4 @@
+pyspark==3.5.3
+delta-spark==3.2.0
+# Only needed for the real-Kafka modes (producer --mode kafka / SOURCE_MODE=kafka):
+kafka-python==2.0.2
